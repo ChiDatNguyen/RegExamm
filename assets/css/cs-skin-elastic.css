@@ -186,7 +186,7 @@ div.cs-select {
 	vertical-align: middle;
 	position: relative;
 	text-align: left;
-	background: #f1f2f7;
+	background: #cccccc;
 	z-index: 100;
 	width: 100%;
 	max-width: 80px;
@@ -255,7 +255,7 @@ div.cs-active {
 	position: absolute;
 	overflow: hidden;
 	width: 100%;
-	background: #f1f2f7;
+	background: #cccccc;
 	visibility: hidden;
 }
 
