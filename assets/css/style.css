@@ -578,7 +578,7 @@ canvas {
   .messenger-box .inner-box {
     position: relative;
     border-radius: 10px;
-    background-color: #f1f2f7;
+    background-color: #cccccc;
     font-size: 14px;
     color: #9aa0a4;
     padding: 14px 20px;
@@ -595,7 +595,7 @@ canvas {
       height: 18px;
       border-style: solid;
       border-width: 9px;
-      border-color: transparent #f1f2f7 transparent transparent; }
+      border-color: transparent #cccccc transparent transparent; }
   .messenger-box .msg-sent .avatar, .messenger-box .msg-sent .msg-box {
     float: right; }
   .messenger-box .msg-sent .msg-box {
@@ -604,7 +604,7 @@ canvas {
   .messenger-box .msg-sent .inner-box:after {
     left: inherit;
     right: -18px;
-    border-color: transparent transparent transparent #f1f2f7; }
+    border-color: transparent transparent transparent #cccccc; }
   .messenger-box .send-mgs {
     margin-top: 20px;
     margin-bottom: 9px;
@@ -895,7 +895,7 @@ aside.left-panel {
 
 /* Right panel */
 .right-panel {
-  background: #f1f2f7;
+  background: #cccccc;
   margin-left: 280px;
   margin-top: 55px; }
   .right-panel .top-left {
@@ -1232,7 +1232,7 @@ header .form-inline {
   padding-left: 25px; }
 
 #language-select {
-  color: #f1f2f7;
+  color: #cccccc;
   float: right;
   margin: 7px 20px 0 0;
   max-width: 80px; }
